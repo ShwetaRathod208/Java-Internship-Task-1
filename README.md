@@ -1,9 +1,13 @@
 # Java-Internship-Task-1
-1. PROJECT OVERVIEW 
+
+1. PROJECT OVERVIEW
+   
 The Student Information System  is a simple Java console-based application designed to store, 
 manage, and display student details such as Student ID, Name, Age, Grade, and Contact Information.
 
-2. OBJECTIVES 
+
+2. OBJECTIVES
+   
 1. The objective of this project is to design a Student class using object-oriented principles to store 
 essential student details.  
 2. The system ensures data accuracy by applying validation for age and grade values.  
@@ -12,8 +16,10 @@ interaction.
 4. The project supports CRUD operations and searching of student records by ID or name. Student 
 data is managed dynamically using arrays or ArrayList during runtime.  
 5. Proper output formatting and basic error handling are implemented to improve usability.
+
    
-3. SETUP & INSTALLATION INSTRUCTIONS 
+3. SETUP & INSTALLATION INSTRUCTIONS
+   
 1. To run the Student Information System project, ensure that Java Development Kit (JDK) 8 or higher 
 is installed on the system. The JDK can be downloaded from the OpenJDK website. After 
 installation, verify Java installation by running java -version in the command prompt. 
@@ -25,6 +31,8 @@ write respective source code into these files and save them.
 4. Compile the project to check for errors. Run the StudentInformationSystem.java file, which 
 contains the main() method. The menu-driven Student Information System will appear in the 
 console, and the application will be ready for use.
+
+
 
 Project Structure: 
  Student.java - Student class definition 
