@@ -35,7 +35,7 @@
 
 
 Project Structure: 
- Student.java - Student class definition 
- StudentInformationSystem.java - Main program with menu 
- StudentManager.java - Business logic class 
- ValidationUtils.java - Input validation methods
+       Student.java - Student class definition
+       StudentInformationSystem.java - Main program with menu 
+       StudentManager.java - Business logic class 
+       ValidationUtils.java - Input validation methods
